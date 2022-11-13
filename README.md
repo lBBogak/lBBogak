@@ -1,6 +1,6 @@
-- Hello, welcome to readme file.
-- My name is lBBogak.
-- I'm living in South Korea, but I agree that 'NORTH KOREA IS THE BEST KOREA.'
+- Hello, welcome to readme file
+- My name is lBBogak
+- I'm living in South Korea but I agree that 'NORTH KOREA IS THE BEST KOREA'
 - Now I'm studying C, and C is the language that only I can
 - @reenact.j (instagram)
 - follow now
